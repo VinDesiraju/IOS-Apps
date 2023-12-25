@@ -28,6 +28,6 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/VinDesiraju/The-Movie-Database.git
+   https://github.com/VinDesiraju/The-Dice-Gambler.git
 
 2. Build the project and enjoy!
