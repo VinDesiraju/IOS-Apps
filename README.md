@@ -19,3 +19,15 @@ You can also reset the game.
 Visit the about page to know more about me:
 
 <img src="https://github.com/VinDesiraju/IOS-Apps/assets/31548669/9cdfbd55-8884-4ec2-80c0-58adcd03b177" width="400" height="700">
+
+
+## Getting Started
+
+To run the app locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/VinDesiraju/The-Movie-Database.git
+
+2. Build the project and enjoy!
